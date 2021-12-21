@@ -1,2 +1,4 @@
-# Tornado_ParticleSystem
- Using particle system for visual tornado and codes for rotation and pullings objects within it. 
+# Tornado_RunGame
+ Unity Game in which you have to run from tornado and collect coins.
+ use aspect ration 16:9 or 16:10 in unity 
+ 
